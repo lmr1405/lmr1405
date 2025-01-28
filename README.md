@@ -1,5 +1,5 @@
 ## Hola, Soy Luis Menendez 💻
-
+Estudiante de Ingenieria Informática y apasionado del desarrollo de software, de la tecnología y la resolución de problemas a traves del código
 <!--
 **lmr1405/lmr1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
