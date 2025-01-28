@@ -1,16 +1,29 @@
-## Hola, Soy Luis Menendez 💻
-Estudiante de Ingenieria Informática y apasionado del desarrollo de software, de la tecnología y la resolución de problemas a traves del código
+## 👋 Hola, Soy Luis Menendez 💻
+
+### 🎓 Sobre mí
+- Estudiante de **Ingeniería Informática**.
+- Técnico Superior en **Acondicionamiento Físico**.
+- Siempre abierto a aprender y explorar nuevas tecnologías.
+- Apasionado por la tecnología, las bases de datos y el desarrollo de software.
+
+---
+
+### 🛠️ Lenguajes y Tecnologías
+- **Lenguajes**: `Java`, `C`
+- **Base de datos**: `SQL con **PostgreSQL`.
+- **Herramientas**: `Git`, `PostgreSQL`.
+
+---
+
 <!--
-**lmr1405/lmr1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Encuéntrame en:
+- [LinkedIn](#) *()*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 -->
+### 🚀 ¿Qué me motiva?
+Combinar la tecnología con el impacto positivo en la sociedad y ayudar a resolver problemas reales mediante el uso de software y datos. Siempre en busca de mejorar mis habilidades en bases de datos y desarrollo backend.
+
+---
+
+✨ Gracias por visitar mi perfil. ¡Estoy emocionado por aprender, crecer y colaborar en proyectos interesantes! 🚀
