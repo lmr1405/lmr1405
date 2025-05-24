@@ -22,9 +22,12 @@
 
 ---
 -->
-### 🚀 ¿Qué me motiva?
+### ¿Qué me motiva?
 Combinar la tecnología con el impacto positivo en la sociedad y ayudar a resolver problemas reales mediante el uso de software y datos. Siempre en busca de mejorar mis habilidades en bases de datos y desarrollo backend.
 
 ---
 
-✨ Gracias por visitar mi perfil. ¡Estoy emocionado por aprender, crecer y colaborar en proyectos interesantes! 🚀
+✨ Gracias por visitar mi perfil. ¡Estoy emocionado por aprender, crecer y colaborar en proyectos interesantes!
+
+
+![Licencia: CC BY-ND 4.0](https://img.shields.io/badge/Licencia-CC%20BY--ND%204.0-blue)
