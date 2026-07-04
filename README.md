@@ -2,12 +2,16 @@
 
 ### Sobre mí
 
-* Estudiante de 4º curso de **Ingeniería Informática**.
-* Técnico Superior en **Acondicionamiento Físico**.
-* Interesado en el desarrollo backend, las bases de datos, los sistemas y los proyectos full stack.
-* Actualmente desarrollando proyectos propios con **Java, Spring Boot, PostgreSQL, React y TypeScript**.
-* También me interesa el área de **sistemas**, especialmente la administración, configuración y comprensión de entornos reales de trabajo.
-* En proceso de construir un portfolio técnico orientado al desarrollo de software, sistemas y soluciones web.
+Soy estudiante de 4º curso de Ingeniería Informática y Técnico Superior en Acondicionamiento Físico. Actualmente estoy construyendo mi perfil técnico a través de proyectos propios, combinando desarrollo backend, bases de datos, frontend y sistemas.
+
+Me interesa especialmente entender cómo se construyen aplicaciones reales de principio a fin: desde el diseño del backend y la base de datos, hasta la creación de una interfaz web funcional y la configuración del entorno necesario para que todo funcione correctamente.
+
+Actualmente estoy trabajando con tecnologías como Java, Spring Boot, PostgreSQL, React, TypeScript y Git, desarrollando proyectos full stack que me permiten aplicar lo aprendido en la carrera y seguir mejorando como futuro profesional IT.
+
+También tengo interés en el área de sistemas, especialmente en la administración, configuración y comprensión de entornos reales de trabajo, redes, servidores y herramientas utilizadas en empresas.
+
+Mi objetivo es seguir creciendo en el sector tecnológico, aprender de proyectos reales y construir un portfolio técnico que refleje mi evolución como estudiante de Ingeniería Informática y mi transición hacia el mundo profesional IT.
+
 
 🔗 Portfolio personal: https://lmr1405.github.io/lmr1405/
 
