@@ -19,12 +19,13 @@ Mi objetivo es seguir creciendo en el sector tecnológico, aprender de proyectos
 
 ### Lenguajes y Tecnologías
 
-* **Lenguajes:** `Java`, `C`, `SQL`, `TypeScript`
-* **Backend:** `Spring Boot`, `Spring Web`, `Spring Data JPA`
-* **Frontend:** `React`, `Vite`, `HTML`, `CSS`
-* **Bases de datos:** `PostgreSQL`
-* **Sistemas:** `Linux`, `Windows`, `VirtualBox`, `Active Directory`
-* **Herramientas:** `Git`, `GitHub`, `Maven`, `VS Code`, `Eclipse`
+- **Lenguajes:** Python, Java, C, C#, SQL, TypeScript
+- **Backend:** FastAPI, SQLAlchemy, Alembic, Spring Boot, Spring Web, Spring Data JPA
+- **Frontend:** React, Vite, HTML, CSS
+- **Bases de datos:** PostgreSQL, Supabase
+- **DevOps:** Docker, Docker Compose, GitHub Actions, Vercel
+- **Sistemas y redes:** Linux, Windows, Windows Server, VirtualBox, Active Directory, GNS3
+- **Herramientas:** Git, GitHub, Maven, VS Code, Visual Studio, Eclipse, Postman
 
 ---
 
